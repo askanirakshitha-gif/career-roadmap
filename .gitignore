@@ -1,0 +1,9 @@
+/gitignore/
+.env
+.env.*
+gitignore/
+
+# Ignore virtualenvs
+backend/.venv/
+frontend/.venv/
+*.pyc

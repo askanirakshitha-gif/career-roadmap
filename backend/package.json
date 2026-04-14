@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.102.1",
+    "express": "^5.2.1"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Quick steps to run the backend locally:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
